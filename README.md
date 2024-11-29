@@ -145,13 +145,6 @@
 <p><strong>Homicipher APK</strong> is a thrilling and intellectually stimulating puzzle game that will challenge even the most seasoned puzzle enthusiasts. With its intriguing mystery, cryptic puzzles, and engaging gameplay, it&rsquo;s an excellent choice for anyone who loves testing their logic and problem-solving skills. Whether you&rsquo;re a casual gamer or a puzzle master, <strong>Homicipher APK</strong> offers an enjoyable and rewarding experience. Download it today and start cracking codes!</p>
 
 
-Check Layout
-Sidebar Type
-Color Picker
-Live customizer
-Customize & Preview Real Time
-
-
 Defaul layout
 
 Compact layout
